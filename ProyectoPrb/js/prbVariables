@@ -1,4 +1,0 @@
-if (true) {
-    let nombre = "prueba h";
-}
-console.log(nombre);
